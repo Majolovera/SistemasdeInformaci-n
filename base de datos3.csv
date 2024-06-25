@@ -1,4 +1,4 @@
-ID;Edad;Ingresos_Anuales;Historial;Monto_Prestamo;Plazo_Prestamo;Número_Creditos;Empleo;Tasa_Interes;Y
+ID,Edad,Ingresos_Anuales;Historial;Monto_Prestamo;Plazo_Prestamo;NÃºmero_Creditos;Empleo;Tasa_Interes;Y
 1;22;2889426;0;8576749;10;0;0;0.35;0
 2;52;20610511;0;5004873;10;3;1;0.25;1
 3;26;7379658;1;5870749;10;0;1;0.35;0
